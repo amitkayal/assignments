@@ -6,4 +6,18 @@ Session 2 - [Assignment](https://github.com/ajithvallabai/assignments/tree/maste
 
 Session 3 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session3)
 
+Session 4 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session4)
+
+Session 5 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session5)
+
+Session 6 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session6)
+
+Session 7 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session7)
+
+Session 8 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session8)
+
+Session 9 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session9)
+
+
+
 
