@@ -13,6 +13,7 @@ Note: Syllabus changes in accordance with the update in reasearch and industry s
    * [Phase 2 - Reinforcement Learning](#Phase-2---Reinforcement-Learning)
 
 - [Result](#Result)
+- [Motivation for Computer Vision](#Motivation-for-Computer-Vision)
 - [Credits](#Credits)
 
 
@@ -68,7 +69,7 @@ Session 3 - LSTMs
 
 Session 4 - GRU,Attention mechanism and memory networks
 
-Session 5 - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/phase2_session5)
+Session 5 - Reinforcement Learning - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/phase2_session5)
 
 Session 6 - Q Learning
 
@@ -95,6 +96,24 @@ Note : The School of A.I doesnt have placement assistance you have to search for
 Job Search learning :
 
 Fastest Way to get inside computer vision domain : Have good git projects and apply to early stage starups . Ways: CEOs of early stage starups via linkedin, HRs of some consultancy ,Update your naukri profile everyday and make computer vision engineer as your head line 
+
+## Motivation for Computer Vision
+
+In 10 to 20 yeards you would be able to stimulate a real world in VR/AR / Mixed Reality and you can live a life that you desire moreover you can make AI bots for any character you want with any new face or new character and litterally you are a god in that world. As a Bahuballi yes possible as a Harry potter yes possible as a Neo yes possible .
+
+Proofs : 
+
+Below are released by MS,FB offcial channels and it has ablity to replace phones and laptops  
+
+[Microsoft](https://www.youtube.com/watch?v=2MqGrF6JaOM)
+[VR Advancement](https://www.youtube.com/watch?v=5cgZ6J5oE0g)
+[Facebook Oculus](https://www.youtube.com/watch?v=Is8eXZco46Q)
+
+You would need a spinning tractricoid top to know the reality 
+
+if you know Computer vision you can make custom roles for you and make personalities that you desire and this makes you a God too .(in that world)
+
+if its hard to accept above fact relate it to the advancement of Virtual machines from  2010 to 2020. There is also a high posiblity that number of births taken by a soul to get liberation can reduce .
 
 ## Credits 
 
