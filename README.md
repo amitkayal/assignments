@@ -52,6 +52,13 @@ Session 9 - [Assignment](https://github.com/ajithvallabai/assignments/tree/maste
 
 Final Project - [Project ENDGAME Self Driving Car - TD3](https://github.com/ajithvallabai/assignments/tree/master/Project_Endgame)
 
+### Result
+
+* I got 6+ job offers from November 2019 to Feburary 2020 . Most of my interviewers selcted me when i told the assignments which i did in The School of A.I in a detailed manner . Also if the interviewer shortlist my profile for 1st round I was able to pass all the rounds .
+
+* I am going to start a Youtube channel in Reinforcement Learning .
+
+Note : The School of A.I doesnt have placement track you have to search for job in a reinforcement learning manner in Bangalore(*best place to start) .I used Naukri and Linkedin as platforms . Also i have been doing courses continously in The School of A.I since April 2017 .
 
 ### Credits 
 
