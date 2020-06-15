@@ -1,4 +1,4 @@
-# Course : Extensive Vision A.I (EVA #3)
+# Course : Extensive Vision AI (EVA #3)
 
 Duration : 9 months* (I did for 1.2 years)
 
@@ -23,9 +23,9 @@ Note: Syllabus changes in accordance with the update in reasearch and industry s
 
 Session 1 - Introduction to Computer Vision - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/project1)
 
-Session 2 -Neural Architecture - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session2)
+Session 2 - Neural Architecture - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session2)
 
-Session 3 -First Neural Network - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session3)
+Session 3 - First Neural Network - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session3)
 
 Session 4 - Architecture Basics - [Assignment](https://github.com/ajithvallabai/assignments/tree/master/session4)
 
@@ -89,13 +89,13 @@ Final Project - [Project ENDGAME Self Driving Car - TD3](https://github.com/ajit
 
 * I am going to start a Youtube channel in Reinforcement Learning .
 
-* Had a good perception of this world and this universe functioning . I compared A&C,TD3, model free ,model based learning with Bhagavat gita facts.(you can even listen to Krishnas speech in Mahabarat serial .There are four episodes.In each every line of Krishnas speech compare above mentioned RL concepts) . Environment in RL is embedding of High level design in CS and Agent in RL is embedding of Low level design in CS .Same relates in real world too.Also HLD is the electrical and LLD is the electronics .We have to transend the Maya and attain liberation that is the core purpose of every soul in this universe .it took almost 5 years to believe in the last line and only when i met Reinforcement learning(model based, model free learning,TD3,A&C) i had a firm beilief in it .
+* Had a good perception of this world and this universe functioning . I compared A&C,TD3, model free ,model based learning with Bhagavat gita facts.(you can even listen to Krishnas speech in latest Mahabarat serial .There are four episodes.In each every line of Krishnas speech compare above mentioned RL concepts) . Environment in RL is embedding of High level design in CS and Agent in RL is embedding of Low level design in CS .Same relates in real world too.Also HLD is the electrical and LLD is the electronics .We have to realise and transend the Maya and attain liberation that is the core purpose of every soul in this universe .It took almost 5 years to believe in the last line and only when i met Reinforcement learning(model based, model free learning,TD3,A&C) i had a firm belief in it .You need to get guided by a self realised person for the exit and like phones/VC you can contact them .
 
 Note : The School of A.I doesnt have placement assistance you have to search for job in a reinforcement learning manner in Bangalore(*best place to start) .I used Naukri and Linkedin as platforms . Also i have been doing courses continously in The School of A.I since April 2017 . I have spent 1 year(June 2018 to October 2019) in knowing how to search for a new computer vision job and i got only 1 call in that entire year and i wasted that one call also.(I was searching at wrong place wrong platforms) .None of my college/school friends were in computer vision that was also making the problem too hard.
 
 Job Search learning :
 
-Fastest Way to get inside computer vision domain : Have good git projects and apply to early stage starups . Ways: CEOs of early stage starups via linkedin, HRs of some consultancy ,Update your naukri profile everyday and make computer vision engineer as your head line 
+Fastest Way to get inside computer vision domain : Have good git projects and apply to early stage starups . Ways: CEOs of early stage starups via linkedin, HRs of job search consultancy ,Update your naukri profile everyday and make computer vision engineer as your head line ,Attending meetups of startups regularly.
 
 ## Motivation for Computer Vision
 
@@ -105,9 +105,9 @@ Proofs :
 
 Below are released by MS,FB offcial channels and it has ablity to replace phones and laptops  
 
-[Microsoft](https://www.youtube.com/watch?v=2MqGrF6JaOM)
-[VR Advancement](https://www.youtube.com/watch?v=5cgZ6J5oE0g)
-[Facebook Oculus](https://www.youtube.com/watch?v=Is8eXZco46Q)
+* [Microsoft](https://www.youtube.com/watch?v=2MqGrF6JaOM)
+* [VR Advancement](https://www.youtube.com/watch?v=5cgZ6J5oE0g)
+* [Facebook Oculus](https://www.youtube.com/watch?v=Is8eXZco46Q)
 
 You would need a spinning tractricoid top to know the reality 
 
